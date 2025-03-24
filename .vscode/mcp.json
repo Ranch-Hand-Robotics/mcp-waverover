@@ -1,0 +1,8 @@
+{
+    "servers": {
+      "WaveRover": {
+        "type": "sse",
+        "url": "http://localhost:3000/sse"
+      }
+    }
+  }
